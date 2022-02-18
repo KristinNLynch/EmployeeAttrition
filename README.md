@@ -1,4 +1,5 @@
-# EmployeeAttrition
+# EmployeeAttrition 
+Using Supervised Machine Learning to predict Employee Attrition
 
 During the pandemic, many companies cut employees as sales started to fall drastically. People were left jobless and afraid to leave their house. 
 As things improved, many of these people didn't return to work. Those that stayed took on even more responsibilities while they often faced additional responsibilities
